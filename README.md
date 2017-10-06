@@ -1,2 +1,18 @@
 # opencourse
 Online LRS Courseware
+
+This is my open source  online learning resource system software.
+Built in code igniter and using many libraries.
+
+CMS
+PAYMENT GATEWAYS
+COURSE MANAGEMENT
+DYNAMIC CERTIFICATES
+
+MUCH MUCH MORE WILL BE UPDATED IN THIS READ ME TOMORROW 
+10-07-2017
+
+THUS FAR I AM THE SOLE DEVELOPER SO LETS GET TO WORK!
+FREE TO USE AND MODIFY, JUST KEEP ME IN GNU ETC YOU KNOW THE DRILL
+
+LETS CREATE AND MAKE IT ROCK.
